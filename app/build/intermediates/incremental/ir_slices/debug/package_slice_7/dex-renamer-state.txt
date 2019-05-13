@@ -1,0 +1,4 @@
+#Mon May 13 10:01:54 PDT 2019
+base.0=/Users/seanchien/Desktop/AndroidClass/android-fundamentals-apps-v2/DroidCafeOptionsUp/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
